@@ -1,14 +1,16 @@
 # Memory
 
 ### Commands to Check Memory Use in Linux
-```
+<br>
 
 ### Free Command ที่ใช้แสดง  Amount of Physical and Swap Memory
 ```bash
   $free
 ```
 <img width="348*2" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112687423/740dfd0d-e9d5-4ee1-b8d7-407cac58f845">
-```
+
+<br>
+
 **` free `** แสดงข้อมูลเกี่ยวกับการใช้หน่วยความจำในระบบ เช่น หน่วยความจำทั้งหมด, หน่วยความจำที่ใช้งาน, หน่วยความจำที่ว่าง, การใช้งานหน่วยความจำแบบเคลื่อนที่, และหน่วยความจำแคช.
 - ` free -h `
 แสดงผลลัพธ์ในรูปแบบที่เป็นมนุษย์อ่านได้ (ในหน่วยความจำตามขนาดของข้อมูล).
