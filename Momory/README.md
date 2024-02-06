@@ -1,4 +1,4 @@
-<img width="279" alt="lsmem" src="https://github.com/CosmoGuy112/PHost/assets/112687423/02a4bbbf-50c0-4498-b428-0c5e2f64f6b1"># Memory
+# Memory
 <br>
 
 # Commands to Check Memory Use in Linux
@@ -47,7 +47,7 @@
 ```bash
   $ lsmem 
 ```
-<img width="279" alt="lsmem" src="https://github.com/CosmoGuy112/PHost/assets/112687423/fa56a8ba-ff13-407e-9d60-7e7577d4adf0">
+<img width="279" alt="lsmem" src="https://github.com/CosmoGuy112/PHost/assets/112687423/02a4bbbf-50c0-4498-b428-0c5e2f64f6b1">
 <br>
 ผลลัพธ์ที่ได้หลังจากใช้ Command
 
