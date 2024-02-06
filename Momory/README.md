@@ -47,7 +47,7 @@
 ```bash
   $ lsmem 
 ```
-<img width="279" alt="lsmem" src="https://github.com/CosmoGuy112/PHost/assets/112687423/02a4bbbf-50c0-4498-b428-0c5e2f64f6b1">
+<img width="279*2" alt="lsmem" src="https://github.com/CosmoGuy112/PHost/assets/112687423/02a4bbbf-50c0-4498-b428-0c5e2f64f6b1">
 <br>
 ผลลัพธ์ที่ได้หลังจากใช้ Command
 
