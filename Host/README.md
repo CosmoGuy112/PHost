@@ -84,6 +84,7 @@ cat /etc/hostname
 $ timedatectl
 ```
 โดยคำสั่งนี้คือคำสั่งที่จะดูข้อมูลและเวลาปัจจุบันและค่าอื่นๆ
+
 ซึ่งเมื่อพิมพ์คำสั่งจะได้ผลลัพธ์ดังนี้ :
 
 ![Screenshot_2024-02-07_003002](https://github.com/CosmoGuy112/PHost/assets/112687431/73464afa-0413-4866-b2c1-32b31566a2a9)
@@ -98,8 +99,40 @@ $ timedatectl
 - RTC ใน TZ ท้องถิ่น: ระบุว่านาฬิกาตามเวลาจริงใช้เวลาท้องถิ่นแทน UTC หรือไม่
 
 ```
-$ timedatectl set-timezone "America/Edmonton"
+$ timedatectl set-timezone "Asia/Bangkok"
 ```
+โดยคำสั่งนี้คือคำสั่งที่ set timezone ของประเทศไทย
+
+ซึ่งเมื่อพิมพ์คำสั่งจะได้ผลลัพธ์ดังนี้ :
+
+![Screenshot_2024-02-07_003002](https://github.com/CosmoGuy112/PHost/assets/112687431/8338271a-0fc4-4684-9952-396dd91ff917)
+
+
+```
+$ timedatectl set-time "2024-02-02 10:30:00"
+```
+โดยคำสั่งนี้คือคำสั่งที่สามารถ set เวลาและวันที่ ได้โดยตรงเลยซึ่งต่างกับคำสั่งก่อนหน้าคือเป็นเวลาปัจจุบันของแต่ละ timezone ที่เราจะไปเปลี่ยนแปลง
+โดยคำสั่งนี้จะ เรียงตาม "YYYY-MM-DD HH-MM-SS"
+
+ซึ่งเมื่อพิมคำสั่งจะได้ผลลัพธ์ดังนี้ :
+
+
+![Screenshot 2024-02-07 013217](https://github.com/CosmoGuy112/PHost/assets/112687431/ed62f5c1-8883-467e-bd93-219993c666cf)
+
+โดยก่อนใช้คำสั่ง set-time ได้จะต้องตั้งค่าจะต้องใช้คำสั่ง :
+
+```
+sudo systemctl stop systemd-timesyncd.service
+```
+เพื่อปิดการ Synchronize ของเวลาก็คือให้สามารถ set-time ด้วยตัวเองได้
+
+ส่วนในการเปิด Synchronize ของเวลาจะใช้คำสั่ง :
+
+```
+sudo systemctl start systemd-timesyncd.service
+```
+ซึ่งจะทำให้เวลาคืนค่ามายัง timezone เดิม
+
 
 # References
 <li>https://tldp.org/HOWTO/Xterminals/configuration.html</li>
