@@ -12,14 +12,6 @@ Syntax: $ lsusb <br>
 
 Output:<br>
 ![2024-02-06 (2)](https://github.com/CosmoGuy112/PHost/assets/112687372/ba698f94-a334-4a2f-9d2f-2c4acbcf6371)
-Bus 002 Device 004: ID 046d:0a37 Logitech, Inc. USB Headset H540<br>
-Bus 002 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub<br>
-Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub<br>
-Bus 001 Device 004: ID 413c:301a Dell Computer Corp.<br>
-Bus 001 Device 003: ID c0f4:05e0<br>
-
-Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub<br>
-Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub<br>
 
 ข้อควรระวังในการใช้งาน<br>
 ในบางกรณี อาจต้องใช้สิทธิ์ root เพื่อเรียกใช้คำสั่ง lsusb เพราะต้องการสิทธิ์สำหรับการอ่านข้อมูลจาก USB หรือการ์ดส่วนเสริม <br><br>
@@ -35,15 +27,7 @@ Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub<br>
 Syntax: $ lspcmcia <br>
 
 Output:<br>
-Socket 0 Bridge:        [yenta_cardbus]           (bus ID: 0000:02:04.0)<br>
-Configuration:	 state: on<br>
-Socket 0 Device 0:	[serial_cs]              (bus ID: 0.0)<br>
-Configuration:	state: on<br>
-Product Name:	Some Serial Device<br>
-Identification:	serial_cs<br>
-Manufacturer:	Some Manufacturer<br>
-Product:	Some Serial Device<br>
-Release:	2.6.32-042stab139.1<br>
+![2024-02-06 (4)](https://github.com/CosmoGuy112/PHost/assets/112687372/c24c3366-b697-4e4e-ab42-3a0a10ea31d5)
 
 ข้อควรระวังในการใช้งาน<br>
 ในกรณีที่จะทำการดำเนินการอะไรกับการ์ด PCMCIA ที่แสดงใน lspcmcia ควรทำการสำรองข้อมูลก่อนเพื่อป้องกันการสูญเสียข้อมูล<br><br>
