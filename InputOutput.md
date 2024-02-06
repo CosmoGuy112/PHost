@@ -198,8 +198,8 @@ Output:<br>
 ข้อควรระวังในการใช้งาน<br>
 บางกรณีผู้ใช้ต้องมีสิทธิ์ในการเข้าถึงข้อมูลฮาร์ดแวร์ทั้งหมดด้วยสิทธิ์ของผู้ใช้ root หรือผู้ใช้ที่มีสิทธิ์การเข้าถึงสูงสุด<br><br>
 
-## References
-# Webpage
+# References
+## Webpage
 <li>https://www.hostpacific.com/command-linux/</li>
 <li>https://th.linux-console.net/?p=12402</li>
 <li>https://th.linux-console.net/?p=16235</li>
