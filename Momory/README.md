@@ -1,6 +1,6 @@
 # Memory
 
-##Commands to Check Memory Use in Linux
+## Commands to Check Memory Use in Linux
 
 ##คำสั่ง free
 
