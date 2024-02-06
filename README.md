@@ -32,3 +32,8 @@ Hosting คือ พื้นที่ที่ใช้สำหรับเ�
 <li>https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/</li>
 <li>https://tips.thaiware.com/1806.html#what-is-a-kernel-task</li>
 <li>https://www.sogoodweb.com/Article/Detail/7814/Hosting-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3</li>
+<li>https://tecadmin.net/lsusb-command-in-linux/</li>
+<li>https://access.redhat.com/documentation/th-th/red_hat_enterprise_linux/6/html/deployment_guide/s2-sysinfo-hardware-lspcmcia</li>
+<li>https://www.ibm.com/docs/en/aix/7.1?topic=l-lsdev-command</li>
+<li>https://www.thegeekstuff.com/2014/04/lspci-examples/</li>
+<li>https://www.geeksforgeeks.org/lsusb-command-in-linux-with-examples/</li>
