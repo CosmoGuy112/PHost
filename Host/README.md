@@ -53,3 +53,26 @@ $ hostname
 ```
 $ hostname test.example.com
 ```
+ผลลัพธ์มีดังนี้ :
+ 
+![hostname](https://github.com/CosmoGuy112/PHost/assets/112687431/74739192-08f6-4fc6-932c-c96b6bb56e95)
+
+
+Configure a persistent hostname
+คือ การเปลี่ยนชื่อ hostname ของเครื่องเราโดยใน Config ส่วนนี้จะทำการเปลี่ยนค่า default เลย โดยจะเข้าไป config ใน /etc/hostname
+โดยคำสั่งในการเปลี่ยนค่า hostname ในส่วนนี้คือ :
+
+```
+$ hostnamectl set-hostname test2.example.com
+```
+
+โดยจะสามารถเช็คค่า hostname ที่เปลี่ยนไปได้ใน
+
+```
+cat /etc/hostname
+```
+
+ผลลัพธ์มีดังนี้ :
+
+![Screenshot 2024-02-07 002738](https://github.com/CosmoGuy112/PHost/assets/112687431/9ea4116a-1e0f-443b-bac8-7e5b2284223d)
+
