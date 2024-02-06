@@ -38,3 +38,12 @@ Hosting คือ พื้นที่ที่ใช้สำหรับเ�
 <li>https://www.ibm.com/docs/en/aix/7.1?topic=l-lsdev-command</li>
 <li>https://www.thegeekstuff.com/2014/04/lspci-examples/</li>
 <li>https://www.geeksforgeeks.org/lsusb-command-in-linux-with-examples/</li>
+- https://ioflood.com/blog/htop-linux-command/
+- https://phoenixnap.com/kb/linux-commands-check-memory-usage
+- https://tips.thaiware.com/1806.html
+- https://th.linux-console.net/?p=2061
+- https://saixiii.com/free-linux-command/
+- https://coderwall.com/p/ef1gcw/managing-ram-and-swap
+- https://it-madmonster.blogspot.com/2009/08/unix-linux-vmstat-command.html
+- https://th.linux-console.net/?p=8268
+- https://medium.com/olarik/linux-command-top-show-current-running-process-54e8881c31ef
