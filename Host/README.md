@@ -76,3 +76,10 @@ cat /etc/hostname
 
 ![Screenshot 2024-02-07 002738](https://github.com/CosmoGuy112/PHost/assets/112687431/9ea4116a-1e0f-443b-bac8-7e5b2284223d)
 
+# References
+<li>https://tldp.org/HOWTO/Xterminals/configuration.html</li>
+<li>https://www.redhat.com/sysadmin/configure-hostname-linux</li>
+<li>https://devconnected.com/how-to-set-date-and-time-on-linux/</li>
+<li>https://www.scaler.com/topics/ntp-in-linux/</li>
+<li>https://support.huawei.com/enterprise/en/doc/EDOC1100318951/aad02e92/linux-host-security-protection</li>
+<li>https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_security_guide/chap-virtualization_security_guide-host_security</li>
