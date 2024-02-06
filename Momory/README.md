@@ -78,7 +78,7 @@
 ```bash
   $ top
 ```
-<img width="511" alt="top" src="https://github.com/CosmoGuy112/PHost/assets/112687423/ab1463b8-8011-45da-98a6-e3e5a177177a">
+<img width="511*1.2" alt="top" src="https://github.com/CosmoGuy112/PHost/assets/112687423/ab1463b8-8011-45da-98a6-e3e5a177177a">
 <br>
 ผลลัพธ์ที่ได้หลังจากใช้ Command
 
