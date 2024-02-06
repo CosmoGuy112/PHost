@@ -1,6 +1,6 @@
 # Memory
 
-## Commands to Check Memory Use in Linux
+### Commands to Check Memory Use in Linux
 
 ## free Command ที่ใช้แสดง  Amount of Physical and Swap Memory
 
@@ -43,7 +43,7 @@
   /proc/meminfo
 ```
 
-จะแสดงข้อมูลเกี่ยวกับการใช้หน่วยความจำในระบบจากไฟ `/proc/meminfo`
+- จะแสดงข้อมูลเกี่ยวกับการใช้หน่วยความจำในระบบจากไฟ `/proc/meminfo`
 ซึ่งรวมถึงข้อมูลเกี่ยวกับหน่วยความจำทั้งหมด, หน่วยความจำที่ใช้งาน, และข้อมูลอื่น ๆ เกี่ยวกับการใช้หน่วยความจำ
 
 ## vmstat Command รายงาน Virtual Memory Statistics
