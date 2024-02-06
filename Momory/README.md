@@ -7,7 +7,7 @@
 ```bash
   $free
 ```
-<img width="132*2" alt="cat" src="https://github.com/CosmoGuy112/PHost/assets/112687423/66697506-0659-46ab-80a0-69bfd62c5e8d">
+<img width="348" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112687423/9390230e-cbbf-4ca0-92e4-296410751368">
 <br>
 
 
@@ -48,7 +48,8 @@
 ```bash
   $ /proc/meminfo
 ```
-<img width="348*2" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112687423/03084d7f-1635-45e5-b3a6-c176870df0fa">
+
+<img width="132*2" alt="cat" src="https://github.com/CosmoGuy112/PHost/assets/112687423/66697506-0659-46ab-80a0-69bfd62c5e8d">
 <br>
 ผลลัพธ์ที่ได้หลังจากใช้ Command
 
