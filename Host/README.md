@@ -141,3 +141,4 @@ sudo systemctl start systemd-timesyncd.service
 <li>https://www.scaler.com/topics/ntp-in-linux/</li>
 <li>https://support.huawei.com/enterprise/en/doc/EDOC1100318951/aad02e92/linux-host-security-protection</li>
 <li>https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_security_guide/chap-virtualization_security_guide-host_security</li>
+<li>https://th.linux-console.net/?p=8474</li>
