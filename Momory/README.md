@@ -123,3 +123,4 @@
 - https://it-madmonster.blogspot.com/2009/08/unix-linux-vmstat-command.html
 - https://th.linux-console.net/?p=8268
 - https://medium.com/olarik/linux-command-top-show-current-running-process-54e8881c31ef
+- https://www.ibm.com/support/pages/memory-linux-determining-how-much-memory-you-have-linux
