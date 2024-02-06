@@ -19,6 +19,4 @@ free -g: คำสั่งนี้จะแสดงข้อมูลกา�
 
 ## Screenshots
 
-![image]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://phoenixnap.com/kb/wp-content/uploads/2021/04/cat-proc-meminf-linux-memory.png))
-
 ![Uploading cat-proc-meminf-linux-memory.png…]()
