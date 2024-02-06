@@ -39,7 +39,7 @@ Hosting คือ พื้นที่ที่ใช้สำหรับเ�
 <li>https://www.thegeekstuff.com/2014/04/lspci-examples/</li>
 <li>https://www.geeksforgeeks.org/lsusb-command-in-linux-with-examples/</li>
 
-- https://ioflood.com/blog/htop-linux-command/
+-https://ioflood.com/blog/htop-linux-command/
 - https://phoenixnap.com/kb/linux-commands-check-memory-usage
 - https://tips.thaiware.com/1806.html
 - https://th.linux-console.net/?p=2061
