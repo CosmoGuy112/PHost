@@ -11,11 +11,13 @@ lsusb เป็นคำสั่งในระบบปฏิบัติก�
 Syntax: $ lsusb <br>
 
 Output:<br>
+![2024-02-06 (2)](https://github.com/CosmoGuy112/PHost/assets/112687372/ba698f94-a334-4a2f-9d2f-2c4acbcf6371)
 Bus 002 Device 004: ID 046d:0a37 Logitech, Inc. USB Headset H540<br>
 Bus 002 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub<br>
 Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub<br>
 Bus 001 Device 004: ID 413c:301a Dell Computer Corp.<br>
 Bus 001 Device 003: ID c0f4:05e0<br>
+
 Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub<br>
 Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub<br>
 
