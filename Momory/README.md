@@ -46,7 +46,7 @@
 
 ## Cat Command ที่แสดง Linux Memory Information
 ```bash
-  $ /proc/meminfo
+  $ cat /proc/meminfo
 ```
 
 <img width="132*2" alt="cat" src="https://github.com/CosmoGuy112/PHost/assets/112687423/66697506-0659-46ab-80a0-69bfd62c5e8d">
