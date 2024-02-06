@@ -59,7 +59,7 @@
 ```bash
   $ htop
 ```
-<img width="515" alt="htop" src="https://github.com/CosmoGuy112/PHost/assets/112687423/c3331510-ab66-4d3a-b43c-3353d287aab8">
+<img width="515*1.3" alt="htop" src="https://github.com/CosmoGuy112/PHost/assets/112687423/c3331510-ab66-4d3a-b43c-3353d287aab8">
 
 `htop` แสดงข้อมูลเกี่ยวกับสถานะของระบบและ processes ในเวลาที่เป็นเรียลไทม์ เช่น CPU usage memory usage และ process list ที่มีการเรียงตามความสำคัญ โดยสามารถกดปุ่ม Shift + M เพื่อเรียงลำดับกระบวนการตามการใช้งานหน่วยความจำ (Memory usage)
 
