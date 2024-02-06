@@ -7,7 +7,7 @@
 ```bash
   $free
 ```
-
+<img width="348" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112687423/740dfd0d-e9d5-4ee1-b8d7-407cac58f845">
 **` free `** แสดงข้อมูลเกี่ยวกับการใช้หน่วยความจำในระบบ เช่น หน่วยความจำทั้งหมด, หน่วยความจำที่ใช้งาน, หน่วยความจำที่ว่าง, การใช้งานหน่วยความจำแบบเคลื่อนที่, และหน่วยความจำแคช.
 
 - ` free -h `
@@ -58,6 +58,7 @@
 ```bash
   $ htop
 ```
+<img width="515" alt="htop" src="https://github.com/CosmoGuy112/PHost/assets/112687423/c3331510-ab66-4d3a-b43c-3353d287aab8">
 
 `htop` แสดงข้อมูลเกี่ยวกับสถานะของระบบและ processes ในเวลาที่เป็นเรียลไทม์ เช่น CPU usage memory usage และ process list ที่มีการเรียงตามความสำคัญ โดยสามารถกดปุ่ม Shift + M เพื่อเรียงลำดับกระบวนการตามการใช้งานหน่วยความจำ (Memory usage)
 
