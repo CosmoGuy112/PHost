@@ -76,6 +76,19 @@ cat /etc/hostname
 
 ![Screenshot 2024-02-07 002738](https://github.com/CosmoGuy112/PHost/assets/112687431/9ea4116a-1e0f-443b-bac8-7e5b2284223d)
 
+
+## Configure Time & Date
+ในการตั้งค่า Config วันเละเวลา คำสั่งที่ควรจะรู้คือ :
+
+```
+$ timedatectl
+```
+ซึ่งเมื่อพิมพ์คำสั่งจะได้ผลลัพธ์ดังนี้ :
+
+![Screenshot_2024-02-07_003002](https://github.com/CosmoGuy112/PHost/assets/112687431/73464afa-0413-4866-b2c1-32b31566a2a9)
+
+
+
 # References
 <li>https://tldp.org/HOWTO/Xterminals/configuration.html</li>
 <li>https://www.redhat.com/sysadmin/configure-hostname-linux</li>
