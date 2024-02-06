@@ -7,8 +7,9 @@
 ```bash
   $free
 ```
-<img width="348*2" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112687423/740dfd0d-e9d5-4ee1-b8d7-407cac58f845">
+<img width="132*2" alt="cat" src="https://github.com/CosmoGuy112/PHost/assets/112687423/66697506-0659-46ab-80a0-69bfd62c5e8d">
 <br>
+
 
 ผลลัพธ์ที่ได้หลังจากใช้ Command
 
