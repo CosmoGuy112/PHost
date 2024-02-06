@@ -1,4 +1,4 @@
-# Memory
+<img width="279" alt="lsmem" src="https://github.com/CosmoGuy112/PHost/assets/112687423/02a4bbbf-50c0-4498-b428-0c5e2f64f6b1"># Memory
 <br>
 
 # Commands to Check Memory Use in Linux
@@ -42,6 +42,17 @@
 | available  | การประมาณจำนวนหน่วยความจำที่พร้อมใช้งานสำหรับการเริ่มแอปพลิเคชันใหม่โดยไม่ต้องสลับ |
 <br>
 
+
+## Show online status information about memory blocks
+```bash
+  $ lsmem 
+```
+<img width="279" alt="lsmem" src="https://github.com/CosmoGuy112/PHost/assets/112687423/fa56a8ba-ff13-407e-9d60-7e7577d4adf0">
+<br>
+ผลลัพธ์ที่ได้หลังจากใช้ Command
+
+- `lsmem` ใช้ในการแสดงข้อมูลเกี่ยวกับการใช้งานหน่วยความจำเชิง Physical Memory ในระบบ โดยจะแสดงข้อมูล เช่น ขนาดของหน่วยความจำทั้งหมด, ข้อมูลเกี่ยวกับ node และ process ที่ใช้งานหน่วยความจำนั้น นอกจากนี้ยังสามารถใช้ในการแสดงข้อมูลเกี่ยวกับ NUMA (Non-Uniform Memory Access) ในระบบ Linux
+<br>
 
 
 ## Cat Command ที่แสดง Linux Memory Information
