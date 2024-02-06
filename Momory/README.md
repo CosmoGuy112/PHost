@@ -58,9 +58,10 @@
 ```bash
   $ htop
 ```
+
 `htop` แสดงข้อมูลเกี่ยวกับสถานะของระบบและ processes ในเวลาที่เป็นเรียลไทม์ เช่น CPU usage memory usage และ process list ที่มีการเรียงตามความสำคัญ โดยสามารถกดปุ่ม Shift + M เพื่อเรียงลำดับกระบวนการตามการใช้งานหน่วยความจำ (Memory usage)
 
-
+https://cdn.discordapp.com/attachments/1204438307724071012/1204476924496187433/image.png?ex=65d4df8c&is=65c26a8c&hm=1614ca9c4ee29ca07f36e08e4722c7c4f5d81554fbf76c69653f9953c6b8eae8&
 ## Commands to Delete cache in Linux
 
 ```bash
