@@ -19,7 +19,8 @@ Hosting คือ พื้นที่ที่ใช้สำหรับเ�
 | 65070072 |นางสาวณัฐณิชา ชื่นสบาย|Host|<img width="140" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112687454/99cf2205-3a6f-4573-bf38-4fc7a56e071b">|
 | 65070082 |นางสาวณัฐรดา กิจสมบูรณ์สุข|i/o, Kernel|  <img width="140" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/109953192/bd0acb4c-52f6-47aa-a7ec-052c0baa7500"> |
 | 65070197 |นายรวิพล สอาดโพธิ์ทอง|Memory|  <img width="140" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112681436/a7dc52a9-8d30-4c34-a49d-c662d73612d4">|
-| 650700247 |นายอติคุณ ปิดสาโย|Host|  <img width="140" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112681436/a7dc52a9-8d30-4c34-a49d-c662d73612d4](https://github.com/CosmoGuy112/PHost/assets/112687454/9ae10270-02b0-4384-b5e3-fcc1f6dbc4a4">|
+| 650700247 |นายอติคุณ ปิดสาโย|Host|  <img width="140" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112687454/75735891-4d1a-42a4-9b83-cd4c1f6a4c41">|
+
 
 ## References
 #### Webpage
