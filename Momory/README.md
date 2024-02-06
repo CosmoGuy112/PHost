@@ -7,7 +7,7 @@
 ```bash
   $free
 ```
-<img width="348" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112687423/9390230e-cbbf-4ca0-92e4-296410751368">
+<img width="348*4" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112687423/9390230e-cbbf-4ca0-92e4-296410751368">
 <br>
 
 
