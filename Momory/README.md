@@ -6,7 +6,7 @@
 ```bash
   $ free
 ```
-<img width="348*4" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112687423/9390230e-cbbf-4ca0-92e4-296410751368">
+<img width="348*4" alt="image" src="- https://github.com/CosmoGuy112/PHost/assets/112687423/9390230e-cbbf-4ca0-92e4-296410751368">
 <br>
 
 
@@ -112,3 +112,14 @@
 - การลบข้อมูลแคชเป็นเครื่องมือที่มีประโยชน์ในบางกรณี เช่น เมื่อต้องการปล่อยหน่วยความจำเพิ่มเติมที่ถูกใช้งานโดยแคช หรือเมื่อต้องการล้างข้อมูลที่ไม่จำเป็นออกจากระบบเพื่อเพิ่มประสิทธิภาพการทำงานของระบบในบางกรณี เช่น เมื่อมีการทดสอบประสิทธิภาพของระบบ หรือต้องการความสมดุลในการใช้งานหน่วยความจำ
 - ควรใช้คำสั่ง `vm.drop_caches=3` ด้วยความระมัดระวังเนื่องจากการลบข้อมูลแคชอาจทำให้ระบบช้าลงชั่วคราวในขณะที่ระบบต้องทำการโหลดข้อมูลใหม่เข้าสู่แคชอีกครั้ง และอาจส่งผลให้การทำงานของแอปพลิเคชันหรือระบบที่ได้รับผลกระทบต่าง ๆ อาจเป็นไปได้ ดังนั้นควรใช้คำสั่งนี้โดยคำนึงถึงความเหมาะสมและการจำเป็นของการลบแคชในสถานการณ์ของระบบ
 <br>
+
+# References
+- https://ioflood.com/blog/htop-linux-command/
+- https://phoenixnap.com/kb/linux-commands-check-memory-usage
+- https://tips.thaiware.com/1806.html
+- https://th.linux-console.net/?p=2061
+- https://saixiii.com/free-linux-command/
+- https://coderwall.com/p/ef1gcw/managing-ram-and-swap
+- https://it-madmonster.blogspot.com/2009/08/unix-linux-vmstat-command.html
+- https://th.linux-console.net/?p=8268
+- https://medium.com/olarik/linux-command-top-show-current-running-process-54e8881c31ef
