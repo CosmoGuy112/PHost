@@ -16,7 +16,6 @@ Linux Hosting  หมายถึงการใช้ระบบปฏิบ�
 | 65070072 |นางสาวณัฐณิชา ชื่นสบาย|Host|<img width="140" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112687454/99cf2205-3a6f-4573-bf38-4fc7a56e071b">|
 | 65070082 |นางสาวณัฐรดา กิจสมบูรณ์สุข|i/o, Kernel|  <img width="140" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/109953192/bd0acb4c-52f6-47aa-a7ec-052c0baa7500"> |
 | 65070197 |นายรวิพล สอาดโพธิ์ทอง | memory | <img width="140" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112681436/7d5943ef-6f0f-4cce-977a-1a5962680993"> |
-">|
 
 ## References
 #### Webpage
