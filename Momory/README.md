@@ -1,5 +1,4 @@
 # Memory
-<br>
 
 # Commands to Check Memory Use in Linux
 
