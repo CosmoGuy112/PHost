@@ -1,7 +1,6 @@
 # Memory
-
-### Commands to Check Memory Use in Linux
 <br>
+# Commands to Check Memory Use in Linux
 
 ### Free Command ที่ใช้แสดง  Amount of Physical and Swap Memory
 ```bash
