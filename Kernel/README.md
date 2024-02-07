@@ -38,3 +38,4 @@ Kernal คือศูนย์กลางในระบบ Computer โดย
 - https://www.techtarget.com/searchdatacenter/definition/kernel
 - https://saixiii.com/what-is-kernel/
 - https://th.wikipedia.org/wiki/%E0%B9%83%E0%B8%88%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87
+- https://digilent.com/blog/demystifiying-the-linux-kernel/
