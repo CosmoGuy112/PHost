@@ -2,13 +2,12 @@
 
 # Commands to Check Memory Use in Linux
 
-### Free Command ที่ใช้แสดง  Amount of Physical and Swap Memory
+### free Command to Display the Amount of Physical and Swap Memory
 ```bash
   $ free
 ```
 <img width="348*4" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112687423/9390230e-cbbf-4ca0-92e4-296410751368">
 <br>
-
 
 ผลลัพธ์ที่ได้หลังจากใช้ Command
 
@@ -40,6 +39,7 @@
 | buff/cache  | Buffers + Cache |
 | available  | การประมาณจำนวนหน่วยความจำที่พร้อมใช้งานสำหรับการเริ่มแอปพลิเคชันใหม่โดยไม่ต้องสลับ |
 <br>
+<br>
 
 
 ## Show online status information about memory blocks
@@ -54,7 +54,7 @@
 <br>
 
 
-## Cat Command ที่แสดง Linux Memory Information
+## cat Command to Show Linux Memory Information
 ```bash
   $ cat /proc/meminfo
 ```
@@ -64,6 +64,7 @@
 ผลลัพธ์ที่ได้หลังจากใช้ Command
 
 - `/proc/meminfo` เป็นหนึ่งในไฟล์พิเศษในระบบไฟล์ `/proc` ให้ข้อมูลเกี่ยวกับการใช้งานและสถานะของหน่วยความจำ (RAM) บนระบบเครื่อง Linux ไฟล์นี้จะเป็นข้อมูลของหน่วยความจำเกี่ยวกับการใช้งานในขณะที่คำสั่งถูกเรียกใช้งาน ส่วนของ `/proc/meminfo` จะแสดงข้อมูลที่อยู่ภายใน
+<br>
 <br>
 
 ## Commands to Show detail used Memory in Linux
@@ -102,7 +103,7 @@
 ผลลัพธ์ที่ได้หลังจากใช้ Command
 
 - คำสั่ง `htop` แสดงข้อมูลเกี่ยวกับสถานะของระบบและ processes ในเวลาที่เป็นเรียลไทม์ เช่น CPU usage, memory usage, และ process list ที่มีการเรียงตามความสำคัญ โดยสามารถกดปุ่ม Shift + M เพื่อเรียงลำดับกระบวนการตามการใช้งานหน่วยความจำ (Memory usage)
-
+<br>
 
 ## Commands to Delete cache in Linux
 ```bash
@@ -112,6 +113,8 @@
 - การลบข้อมูลแคชเป็นเครื่องมือที่มีประโยชน์ในบางกรณี เช่น เมื่อต้องการปล่อยหน่วยความจำเพิ่มเติมที่ถูกใช้งานโดยแคช หรือเมื่อต้องการล้างข้อมูลที่ไม่จำเป็นออกจากระบบเพื่อเพิ่มประสิทธิภาพการทำงานของระบบในบางกรณี เช่น เมื่อมีการทดสอบประสิทธิภาพของระบบ หรือต้องการความสมดุลในการใช้งานหน่วยความจำ
 - ควรใช้คำสั่ง `vm.drop_caches=3` ด้วยความระมัดระวังเนื่องจากการลบข้อมูลแคชอาจทำให้ระบบช้าลงชั่วคราวในขณะที่ระบบต้องทำการโหลดข้อมูลใหม่เข้าสู่แคชอีกครั้ง และอาจส่งผลให้การทำงานของแอปพลิเคชันหรือระบบที่ได้รับผลกระทบต่าง ๆ อาจเป็นไปได้ ดังนั้นควรใช้คำสั่งนี้โดยคำนึงถึงความเหมาะสมและการจำเป็นของการลบแคชในสถานการณ์ของระบบ
 <br>
+<br>
+
 
 # References
 - https://ioflood.com/blog/htop-linux-command/
