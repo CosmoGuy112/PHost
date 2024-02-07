@@ -85,7 +85,6 @@
 - `cache` จำนวนหน่วยความจำที่ใช้เป็นแคช
 <br>
 <br>
-<br>
 
 ## Commands to Show detail process Memory in Linux (Top)
 ```bash
@@ -106,7 +105,8 @@
 ผลลัพธ์ที่ได้หลังจากใช้ Command
 
 - คำสั่ง `htop` แสดงข้อมูลเกี่ยวกับสถานะของระบบและ processes ในเวลาที่เป็นเรียลไทม์ เช่น CPU usage, memory usage, และ process list ที่มีการเรียงตามความสำคัญ โดยสามารถกดปุ่ม Shift + M เพื่อเรียงลำดับกระบวนการตามการใช้งานหน่วยความจำ (Memory usage)
-<br><br>
+<br>
+<br>
 
 ## Commands to Delete cache in Linux
 ```bash
