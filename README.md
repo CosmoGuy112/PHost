@@ -52,3 +52,10 @@ Hosting คือ พื้นที่ที่ใช้สำหรับเ�
 <li>https://it-madmonster.blogspot.com/2009/08/unix-linux-vmstat-command.html</li>
 <li>https://th.linux-console.net/?p=8268</li>
 <li>https://medium.com/olarik/linux-command-top-show-current-running-process-54e8881c31ef</li>
+<li>https://tldp.org/HOWTO/Xterminals/configuration.html</li>
+<li>https://www.redhat.com/sysadmin/configure-hostname-linux</li>
+<li>https://devconnected.com/how-to-set-date-and-time-on-linux/</li>
+<li>https://www.scaler.com/topics/ntp-in-linux/</li>
+<li>https://support.huawei.com/enterprise/en/doc/EDOC1100318951/aad02e92/linux-host-security-protection</li>
+<li>https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_security_guide/chap-virtualization_security_guide-host_security</li>
+<li>https://th.linux-console.net/?p=8474</li>
