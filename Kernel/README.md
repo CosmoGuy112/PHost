@@ -33,6 +33,28 @@ Kernal คือศูนย์กลางในระบบ Computer โดย
 ข้อควรระวังในการใช้งาน<br>
 การเข้าถึงและแก้ไขโค้ดหรือการตั้งค่าใน kernel ต้องมีการให้ความระมัดระวัง เพราะการกระทำไม่ถูกต้องอาจทำให้ระบบล่มหรือทำให้ระบบไม่สามารถทำงานได้<br>
 
+# คำสั่งที่ควรรู้
+คำสั่งที่ควรรู้ใน kernel :
+```
+$ lsmod
+```
+>เป็นคำสั่งที่จะแสดงสถานะของ kernel ทั้งหมดโดยจะแสดงเป็น list modules 
+
+ผลลัพธ์
+
+![res](https://github.com/CosmoGuy112/PHost/assets/112687431/fe806664-bedd-47b6-8573-53e9bdeefc54)
+
+
+```
+$ insmod 
+```
+>เป็นคำสั่งที่ insert module เข้าไปที่ kernel โดยตรง โดยคำสั่งนี้ก็เป็นคำสั่งที่ช่วยเพิ่มฟังก์ชั่นของ core ในระบบปฎิบัติการ
+
+```
+$ rmmod <Module>
+```
+>เป็นคำสั่งที่จะ remove module ใน kernel ออก
+
 # References
 - https://tips.thaiware.com/1806.html#what-is-a-kernel-task
 - https://www.techtarget.com/searchdatacenter/definition/kernel
@@ -40,3 +62,5 @@ Kernal คือศูนย์กลางในระบบ Computer โดย
 - https://th.wikipedia.org/wiki/%E0%B9%83%E0%B8%88%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87
 - https://digilent.com/blog/demystifiying-the-linux-kernel/
 - https://www.javatpoint.com/what-is-kernel
+- -https://www.computerhope.com/unix/insmod.htm
+- https://eng.libretexts.org/Bookshelves/Computer_Science/Operating_Systems/Linux_-_The_Penguin_Marches_On_(McClanahan)/06%3A_Kernel_Module_Management/2.05%3A_Kernel_Module_Management_-_lsmod_Command
