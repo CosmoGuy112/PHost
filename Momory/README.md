@@ -83,7 +83,9 @@
 - `free` จำนวนหน่วยความจำที่ไม่ได้ใช้งาน (ปัจจุบันไม่ได้ใช้)
 - `buff` จำนวนหน่วยความจำที่ใช้เป็นบัฟเฟอร์
 - `cache` จำนวนหน่วยความจำที่ใช้เป็นแคช
-<br><br>
+<br>
+<br>
+<br>
 
 ## Commands to Show detail process Memory in Linux (Top)
 ```bash
