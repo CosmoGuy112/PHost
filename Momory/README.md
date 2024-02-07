@@ -104,6 +104,8 @@
 
 
 - คำสั่ง `top` อนุญาตให้ผู้ใช้งานสามารถตรวจสอบ Monitor process และการใช้ System Resource โดยจะทำให้รู้ว่า process ไหนกำลังทำงาน process ไหนใช้งานทรัพยากรของเครื่องมากจนเกินไป จะได้สั่งหยุด Kill การทำงาน หากต้องการที่จะออกจากโปรแกรม `top` สามารถทำได้โดยกดที่ป่ม q
+<br>
+<br>
 
 ## htop Command to Find Memory Load of Each Process
 ```bash
@@ -112,7 +114,6 @@
 ผลลัพธ์ที่ได้หลังจากใช้ Command
 
 <img width="515*1.3" alt="htop" src="https://github.com/CosmoGuy112/PHost/assets/112687423/c3331510-ab66-4d3a-b43c-3353d287aab8">
-<br>
 <br>
 
 - คำสั่ง `htop` แสดงข้อมูลเกี่ยวกับสถานะของระบบและ processes ในเวลาที่เป็นเรียลไทม์ เช่น CPU usage, memory usage, และ process list ที่มีการเรียงตามความสำคัญ โดยสามารถกดปุ่ม Shift + M เพื่อเรียงลำดับกระบวนการตามการใช้งานหน่วยความจำ (Memory usage)
