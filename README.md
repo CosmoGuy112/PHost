@@ -26,36 +26,3 @@ Hosting คือ พื้นที่ที่ใช้สำหรับเ�
 | 650700247 |นายอติคุณ ปิดสาโย|Host|  <img width="140" alt="image" src="https://github.com/CosmoGuy112/PHost/assets/112687454/75735891-4d1a-42a4-9b83-cd4c1f6a4c41">|
 
 
-## References
-#### Webpage
-<li>https://www.hostpacific.com/command-linux/</li>
-<li>https://th.linux-console.net/?p=12402</li>
-<li>https://th.linux-console.net/?p=16235</li>
-<li>https://th.linux-console.net/?p=7871</li>
-<li>https://www.geeksforgeeks.org/lshw-command-in-linux-with-examples/</li>
-<li>https://www.cyberciti.biz/faq/linux-display-information-about-installed-hardware/</li>
-<li>https://linuxize.com/post/lsmod-command-in-linux/</li>
-<li>https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/</li>
-<li>https://tips.thaiware.com/1806.html#what-is-a-kernel-task</li>
-<li>https://www.sogoodweb.com/Article/Detail/7814/Hosting-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3</li>
-<li>https://tecadmin.net/lsusb-command-in-linux/</li>
-<li>https://access.redhat.com/documentation/th-th/red_hat_enterprise_linux/6/html/deployment_guide/s2-sysinfo-hardware-lspcmcia</li>
-<li>https://www.ibm.com/docs/en/aix/7.1?topic=l-lsdev-command</li>
-<li>https://www.thegeekstuff.com/2014/04/lspci-examples/</li>
-<li>https://www.geeksforgeeks.org/lsusb-command-in-linux-with-examples/</li>
-<li>https://ioflood.com/blog/htop-linux-command/</li>
-<li>https://phoenixnap.com/kb/linux-commands-check-memory-usage</li>
-<li>https://tips.thaiware.com/1806.html</li>
-<li>https://th.linux-console.net/?p=2061</li>
-<li>https://saixiii.com/free-linux-command/</li>
-<li>https://coderwall.com/p/ef1gcw/managing-ram-and-swap</li>
-<li>https://it-madmonster.blogspot.com/2009/08/unix-linux-vmstat-command.html</li>
-<li>https://th.linux-console.net/?p=8268</li>
-<li>https://medium.com/olarik/linux-command-top-show-current-running-process-54e8881c31ef</li>
-<li>https://tldp.org/HOWTO/Xterminals/configuration.html</li>
-<li>https://www.redhat.com/sysadmin/configure-hostname-linux</li>
-<li>https://devconnected.com/how-to-set-date-and-time-on-linux/</li>
-<li>https://www.scaler.com/topics/ntp-in-linux/</li>
-<li>https://support.huawei.com/enterprise/en/doc/EDOC1100318951/aad02e92/linux-host-security-protection</li>
-<li>https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_security_guide/chap-virtualization_security_guide-host_security</li>
-<li>https://th.linux-console.net/?p=8474</li>
