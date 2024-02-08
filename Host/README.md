@@ -200,8 +200,14 @@ $ lscpu
 
 ![Screenshot 2024-02-08 172614](https://github.com/CosmoGuy112/PHost/assets/112687431/3a96cef6-872d-4d4d-90fa-c9eff68b7239)
 
+```
+$ lscpu -e
+```
+เป็นคำสั่งข้อมูลทั้งหมดของ cpu โดยจะแสดงข้อมูลที่สามารถอ่านเข้าใจได้ง่าย
+ตัวอย่าง :
 
 
+![Screenshot 2024-02-08 175325](https://github.com/CosmoGuy112/PHost/assets/112687431/75b78459-9a41-4926-9f1a-971d616261fe)
 
 
 
