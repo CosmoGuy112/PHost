@@ -88,22 +88,28 @@ Kernal คือศูนย์กลางในระบบ Computer โดย
 ```
 $ lsmod
 ```
->เป็นคำสั่งที่จะแสดงสถานะของ kernel ทั้งหมดโดยจะแสดงเป็น list modules 
+>เป็นคำสั่งที่จะแสดงสถานะของ kernel ทั้งหมดโดยจะแสดงเป็น list modules โดยจะแบ่ง Module, Size, Used by
 
 ผลลัพธ์
 
-![res](https://github.com/CosmoGuy112/PHost/assets/112687431/fe806664-bedd-47b6-8573-53e9bdeefc54)
+![Screenshot 2024-02-09 214709](https://github.com/CosmoGuy112/PHost/assets/112687431/462dff8e-bc64-4784-a7ea-efc7d923dc06)
 
 
 ```
-$ insmod 
+$ insmod [ filename ] [ module options... ]
 ```
 >เป็นคำสั่งที่ insert module เข้าไปที่ kernel โดยตรง โดยคำสั่งนี้ก็เป็นคำสั่งที่ช่วยเพิ่มฟังก์ชั่นของ core ในระบบปฎิบัติการ
 
 ```
-$ rmmod <Module>
+$ rmmod [Option] <Module>
 ```
 >เป็นคำสั่งที่จะ remove module ใน kernel ออก
+
+|Command | Descript |
+|--------------------------------|-----------------------------|
+| `rmmod -f [Module]` | เป็นการบังคับลบ Module ออกแม้ว่าจะทำงานอยู่ แต่อาจจะทำให้ เครื่อง crash ได้ |
+| `rmmod -s`  | เป็นการส่งผลลัพธ์ของคำสั่ง rmmod ไปยังไฟล์บันทึกระบบ syslog แทนที่จะแสดงบนหน้าจอ โดยคำสั่งนี้มีประโยชน์สำหรับการบันทึกกิจกรรมและติดตามปัญหา |
+| `rmmod -v [Module]` | เป็นการแสดง ข้อความเพิ่มเติม เกี่ยวกับการถอด Module ออก โดยคำสั่งนี้มีประโยชน์ในการแก้ Debug |
 
 # References
 - https://tips.thaiware.com/1806.html#what-is-a-kernel-task
