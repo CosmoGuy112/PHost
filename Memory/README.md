@@ -1,15 +1,12 @@
 # Memory
 
-ในระบบปฏิบัติการ "Memory" หมายถึงพื้นที่ที่ใช้เก็บข้อมูลและโปรแกรมขณะทำงานในระบบ โดยปกติแล้วมีหลายประเภทของหน่วยความจำหรือ Memory ในระบบ Linux  หน่วยความจำ (Memory) ใน Linux มีบทบาทสำคัญในการจัดเก็บข้อมูลและรันโปรแกรมต่างๆ บนระบบ ปกติแล้ว RAM (Random Access Memory) จะถูกใช้เป็นหน่วยความจำหลักของระบบ 
+ในระบบปฏิบัติการ "Memory" หมายถึงพื้นที่ที่ใช้เก็บข้อมูลและโปรแกรมขณะทำงานในระบบ โดยปกติแล้วมีหลายประเภทของหน่วยความจำหรือ Memory ในระบบ Linux  หน่วยความจำ (Memory) ใน Linux มีบทบาทสำคัญในการจัดเก็บข้อมูลและรันโปรแกรมต่างๆ บนระบบ ปกติแล้ว RAM (Random Access Memory) จะถูกใช้เป็นหน่วยความจำหลักของระบบ หลักๆจะมี
 
 ## Physical Memory (RAM)
 เป็นหน่วยความจำที่ติดตั้งในเครื่องคอมพิวเตอร์โดยตรง ซึ่งใช้สำหรับเก็บข้อมูลและโปรแกรมที่กำลังทำงานในระบบปฏิบัติการ และสามารถเข้าถึงได้โดยโปรแกรมที่ทำงานในระบบ
 
 ## Virtual memory
 เป็นหน่วยความจำเสมือนที่ใช้ในการจำลองพื้นที่หน่วยความจำที่มากขึ้นจากพื้นที่หน่วยความจำที่มีอยู่ใน Linux มีการจัดการโดย Kernel ซึ่งเป็นส่วนที่สำคัญในการจัดการหน่วยความจำ ซึ่งรวมถึงการจัดการหน่วยความจำ
-
-## Cache Memory
-เป็นหน่วยความจำที่ใช้เก็บข้อมูลที่ถูกเข้าถึงบ่อยครั้งเพื่อลดเวลาในการเข้าถึงข้อมูลจากหน่วยความจำหลัก ซึ่ง Linux มีการจัดการ Cache Memory เพื่อเพิ่มประสิทธิภาพในการเข้าถึงข้อมูล
 
 # Commands to Check Memory Use in Linux
 
@@ -153,3 +150,7 @@
 - https://th.linux-console.net/?p=8268
 - https://medium.com/olarik/linux-command-top-show-current-running-process-54e8881c31ef
 - https://www.ibm.com/support/pages/memory-linux-determining-how-much-memory-you-have-linux
+- https://www.site24x7.com/learn/linux/optimize-memory.html
+- https://tldp.org/LDP/sag/html/vm-intro.html
+- https://docs.kernel.org/mm/physical_memory.html
+- https://www.baeldung.com/linux/buffer-vs-cache-memory
