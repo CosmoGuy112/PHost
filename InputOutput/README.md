@@ -211,14 +211,14 @@ Output:<br>
 
 Options: -S ตัวเลือกนี้ใช้สำหรับการแสดงข้อมูลเฉพาะอุปกรณ์ที่เชื่อมต่อผ่าน SCSI (Small Computer System Interface)
 ```
-$ lsblk
+$ lsblk -S
 ```
 Output:<br>
 ![18](https://github.com/CosmoGuy112/PHost/assets/112687372/73ee9053-0641-4856-8f5a-bb7edbc580c8)
 
 Options: -i ตัวเลือกนี้ใช้สำหรับการกลับการเรียงลำดับข้อมูล
 ```
-$ lsblk
+$ lsblk -i
 ```
 Output:<br>
 ![19](https://github.com/CosmoGuy112/PHost/assets/112687372/70ca31da-10a2-4b0e-a10c-299361ea4469)
