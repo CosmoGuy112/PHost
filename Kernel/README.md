@@ -105,11 +105,13 @@ $ rmmod [Option] <Module>
 ```
 >เป็นคำสั่งที่จะ remove module ใน kernel ออก
 
-|Command | Descript |
+| Command | Descript |
 |--------------------------------|-----------------------------|
 | `rmmod -f [Module]` | เป็นการบังคับลบ Module ออกแม้ว่าจะทำงานอยู่ แต่อาจจะทำให้ เครื่อง crash ได้ |
 | `rmmod -s`  | เป็นการส่งผลลัพธ์ของคำสั่ง rmmod ไปยังไฟล์บันทึกระบบ syslog แทนที่จะแสดงบนหน้าจอ โดยคำสั่งนี้มีประโยชน์สำหรับการบันทึกกิจกรรมและติดตามปัญหา |
 | `rmmod -v [Module]` | เป็นการแสดง ข้อความเพิ่มเติม เกี่ยวกับการถอด Module ออก โดยคำสั่งนี้มีประโยชน์ในการแก้ Debug |
+
+
 
 # References
 - https://tips.thaiware.com/1806.html#what-is-a-kernel-task
@@ -121,3 +123,4 @@ $ rmmod [Option] <Module>
 - -https://www.computerhope.com/unix/insmod.htm
 - https://eng.libretexts.org/Bookshelves/Computer_Science/Operating_Systems/Linux_-_The_Penguin_Marches_On_(McClanahan)/06%3A_Kernel_Module_Management/2.05%3A_Kernel_Module_Management_-_lsmod_Command
 - https://www.geeksforgeeks.org/kernel-in-operating-system/
+- https://phoenixnap.com/kb/modprobe-command
