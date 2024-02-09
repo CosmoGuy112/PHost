@@ -249,8 +249,49 @@ Output:<br>
 $ lscpu
 ```
 Output:<br>
-![7](https://github.com/CosmoGuy112/PHost/assets/112687372/ecb470ac-c59a-47a2-9141-104f9c943011)
-<br>
+![7](https://github.com/CosmoGuy112/PHost/assets/112687372/ecb470ac-c59a-47a2-9141-104f9c943011)<br>
+
+Options: -e ตัวเลือกนี้ใช้สำหรับการแสดงข้อมูลที่เกี่ยวข้องกับ CPU และแสดงในรูปแบบที่มนุษย์อ่านได้
+```
+$ lscpu -e
+```
+Output:<br>
+![cpu1](https://github.com/CosmoGuy112/PHost/assets/109953192/a6c5d1cf-aaac-4d9b-9968-4713d9e3683a)<br>
+
+Options: -p ตัวเลือกนี้ใช้สำหรับการแสดงข้อมูลโปรเซสเซอร์ในรูปแบบที่แยกวิเคราะห์ได้ง่าย
+```
+$ lscpu -p
+```
+Output:<br>
+![cpu2](https://github.com/CosmoGuy112/PHost/assets/109953192/9ca125d7-dfa8-4be5-a984-e0b60f7e3c66)<br>
+
+Options: -x ตัวเลือกนี้ใช้สำหรับการแสดงข้อมูลชุด CPU โดยใช้มาสก์เลขฐานสิบหก
+```
+$ lscpu -x
+```
+Output:<br>
+![cpu3](https://github.com/CosmoGuy112/PHost/assets/109953192/5cc3683f-9926-4bf6-9792-33d748ca5b62)<br>
+
+Options: -J ตัวเลือกนี้ใช้สำหรับการแสดงข้อมูลข้อมูล CPU ในรูปแบบ JSON
+```
+$ lscpu -J
+```
+Output:<br>
+![cpu4](https://github.com/CosmoGuy112/PHost/assets/109953192/ce41e4c1-6adb-4bad-9fab-685cbd551f76)<br>
+
+Options: -h ตัวเลือกนี้ใช้สำหรับต้องการพิมพ์ข้อความช่วยเหลือเกี่ยวกับคำสั่ง “lscpu ” และตัวเลือก
+```
+$ lscpu -h
+```
+Output:<br>
+![cpu5](https://github.com/CosmoGuy112/PHost/assets/109953192/fb749ad9-1b0c-4652-8c4e-9d7ea6ebcc36)<br>
+
+Options: -V ตัวเลือกนี้ใช้สำหรับการแสดงข้อมูลเวอร์ชันของเครื่องมือคำสั่ง “lscpu ”
+```
+$ lscpu -V
+```
+Output:<br>
+![cpu6](https://github.com/CosmoGuy112/PHost/assets/109953192/d6094c65-19c0-4139-9159-5c7a7e6b5fb0)<br>
 
 ข้อควรระวังในการใช้งาน<br>
 อาจจะต้องใช้สิทธิ์การเข้าถึง บางครั้งอาจจะต้องใช้กับคำสั่ง sudo หรืออาจจะต้องให้สิทธิ์แก่ผู้ใช้งานคนอื่น<br><br>
@@ -296,9 +337,35 @@ Output:<br>
 $ lshw
 ```
 Output:<br>
-![2024-02-07 (24)](https://github.com/CosmoGuy112/PHost/assets/112687372/265b8985-3b70-4c23-8eb7-be3c6a229994)
+![2024-02-07 (24)](https://github.com/CosmoGuy112/PHost/assets/112687372/265b8985-3b70-4c23-8eb7-be3c6a229994)<br>
 
-<br>
+Options: -html ตัวเลือกนี้ใช้สำหรับการแสดงข้อมูลฮาร์ดแวร์ของระบบและแสดงเป็นเอกสาร HTML ซึ่งสามารถเปิดดูในเว็บเบราว์เซอร์ได้
+```
+$ lshw -html
+```
+Output:<br>
+![hw1](https://github.com/CosmoGuy112/PHost/assets/109953192/d4571b97-b5fd-4e2c-9b74-eb4fcfad4005)<br>
+
+Options: -xml ตัวเลือกนี้ใช้สำหรับการแสดงข้อมูลโปรเซสเซอร์ในรูปแบบที่แยกวิเคราะห์ได้ง่าฮาร์ดแวร์ของระบบในรูปแบบ XML คำสั่งนี้จะสร้างไฟล์ XML ที่บรรจุข้อมูลทั้งหมดเกี่ยวกับฮาร์ดแวร์ของระบบ
+```
+$ lshw -xml
+```
+Output:<br>
+![hw2](https://github.com/CosmoGuy112/PHost/assets/109953192/9c0ecc9d-e27d-4586-8a04-fee0e8678482)<br>
+
+Options: -businfo ตัวเลือกนี้ใช้สำหรับการแสดงข้อมูลเกี่ยวกับชนิดของอินเทอร์เฟซบัสที่ใช้ในการเชื่อมต่อกับอุปกรณ์ฮาร์ดแวร์ของระบบ
+```
+$ lshw -businfo
+```
+Output:<br>
+![hw4](https://github.com/CosmoGuy112/PHost/assets/109953192/011c5ac5-163f-48cd-86f6-69afa8bdc8e2)<br>
+
+Options: -shot ตัวเลือกนี้ใช้สำหรับการแสดงข้อมูลการสร้างภาพหรือการเก็บรูปภาพของข้อมูลฮาร์ดแวร์ เช่น การสร้างภาพหน้าจอ (screenshot) ของข้อมูลฮาร์ดแวร์
+```
+$ lshw -shot
+```
+Output:<br>
+![hw3](https://github.com/CosmoGuy112/PHost/assets/109953192/a69bda3c-c72e-43c8-94a6-02f0fe2ef06f)<br>
 
 ข้อควรระวังในการใช้งาน<br>
 ต้องมีสิทธิ์ในการเข้าถึงข้อมูลฮาร์ดแวร์ทั้งหมด อาจจะต้องใช้ร่วมกับคำสั่ง sudo<br><br>
